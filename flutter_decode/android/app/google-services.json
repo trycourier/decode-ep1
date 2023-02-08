@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "655816762491",
+    "project_id": "decode-ep1",
+    "storage_bucket": "decode-ep1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655816762491:android:fc5be99bcc3ad51b37eede",
+        "android_client_info": {
+          "package_name": "com.courier.flutterdecode.flutter_decode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655816762491-p2cdi3lve1ef0mefalq5m9vdmf9ig33n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeiZ7kHyxl6yMGTWB35hsVRut0fl-0Jqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655816762491-p2cdi3lve1ef0mefalq5m9vdmf9ig33n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

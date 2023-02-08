@@ -1,0 +1,14 @@
+{
+  "name": "node_decode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "send": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@trycourier/courier": "^4.1.1"
+  }
+}
